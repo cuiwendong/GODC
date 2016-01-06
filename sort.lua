@@ -20,7 +20,7 @@ function srotTable( t )
 			end
 		end
 	end
-
+end
 
 srotTable(table)
 for i=1,#table do
